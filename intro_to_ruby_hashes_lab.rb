@@ -30,6 +30,8 @@ monopoly_with_third_tier[:names] = [
   :b_and_o_railroad => {},
   :shortline_railroad => {}
 ]
+
+monopoly_with_third_tier
 end
 
 def monopoly_with_fourth_tier
